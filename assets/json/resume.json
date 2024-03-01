@@ -67,8 +67,7 @@
       "studyType": "MSc, Mathematical Modelling",
       "startDate": "2023-03",
       "endDate": "present",
-      "summary": "Carrying out studies on Optimal Control problems associated with Reinforcement Learning methods, including topics of Learning Based Model Predictive Control (MPC)",
-      "courses": []
+      "courses": ["Carrying out studies on Optimal Control problems associated with Reinforcement Learning methods, including topics of Learning Based Model Predictive Control (MPC)"]
     },
     {
       "institution": "Fundação Getulio Vargas, Brazil",
@@ -76,8 +75,7 @@
       "studyType": "BSc, Applied Mathematics",
       "startDate": "2018-03",
       "endDate": "2022-03",
-      "summary": "Developped research in the areas of Natural Language Processing, Knowledge Representation, Ontologies and Textual Inference",
-      "courses": []
+      "courses": ["Developped research in the areas of Natural Language Processing, Knowledge Representation, Ontologies and Textual Inference"]
     },
     {
       "institution": "Instituto Federal do Rio Grande do Norte, Brazil",
@@ -85,8 +83,7 @@
       "studyType": "Technician, Information Technology",
       "startDate": "2014-03",
       "endDate": "2018-03",
-      "summary": "Technical formation integrated to highschooling; developped research proposing acessible automation for shrimp production",
-      "courses": []
+      "courses": ["Technical formation integrated to highschooling; developped research proposing acessible automation for shrimp production"]
     }
   ],
   "awards": [
