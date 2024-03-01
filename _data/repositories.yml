@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fredsonerd
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - fredsonerd/reinforcement_learning_and_optimal_control
+  - fredsonerd/bang_bang_mountain_car
+  - own-pt/openWordnet-PT
+  - own-pt/delphin-rdf
