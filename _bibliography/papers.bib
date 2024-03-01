@@ -1,85 +1,44 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@InProceedings{goncalooliveira_et_al:OASIcs.LDK.2021.21,
+  author =	{Gon\c{c}alo Oliveira, Hugo and Aguiar, Fredson Silva de Souza and Rademaker, Alexandre},
+  title =	{{On the Utility of Word Embeddings for Enriching OpenWordNet-PT}},
+  booktitle =	{3rd Conference on Language, Data and Knowledge (LDK 2021)},
+  pages =	{21:1--21:13},
+  series =	{Open Access Series in Informatics (OASIcs)},
+  ISBN =	{978-3-95977-199-3},
+  ISSN =	{2190-6807},
+  year =	{2021},
+  volume =	{93},
+  editor =	{Gromann, Dagmar and S\'{e}rasset, Gilles and Declerck, Thierry and McCrae, John P. and Gracia, Jorge and Bosque-Gil, Julia and Bobillo, Fernando and Heinisch, Barbara},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.LDK.2021.21},
+  URN =		{urn:nbn:de:0030-drops-145578},
+  annote =	{Keywords: word embeddings, lexical resources, wordnet, analogy tests},
+  
+  selected={true},
+  pdf={https://drops.dagstuhl.de/storage/01oasics/oasics-vol093-ldk2021/OASIcs.LDK.2021.21/OASIcs.LDK.2021.21.pdf},
+  abstract={The maintenance of wordnets and lexical knwoledge bases typically relies on time-consuming manual effort. In order to minimise this issue, we propose the exploitation of models of distributional semantics, namely word embeddings learned from corpora, in the automatic identification of relation instances missing in a wordnet. Analogy-solving methods are first used for learning a set of relations from analogy tests focused on each relation. Despite their low accuracy, we noted that a portion of the top-given answers are good suggestions of relation instances that could be included in the wordnet. This procedure is applied to the enrichment of OpenWordNet-PT, a public Portuguese wordnet. Relations are learned from data acquired from this resource, and illustrative examples are provided. Results are promising for accelerating the identification of missing relation instances, as we estimate that about 17% of the potential suggestions are good, a proportion that almost doubles if some are automatically invalidated.},
+  doi = {10.4230/OASIcs.LDK.2021.21},
+  html={https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.LDK.2021.21},
+  website={https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.LDK.2021.21},
+  bibtex_show = true,
+  abbr = {LDK 2021}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@phdthesis{aguiar_fredson_bsc_ownpt,
+  address = {Rio de Janeiro, Brazil},
+  title = {Implementação de um Workflow de Atualização e Experimentos Utilizando Word Embeddings e Analogia para o Enriquecimento da OpenWordnet-PT},
+  abstract = {A OpenWordnet-PT é atualmente referência em wordnets para língua portuguesa. No entanto, à medida em que o recurso cresce, a manutenção puramente manual torna-se inviável. Dessa forma, discutimos atualização de infra-estrutura junto a algumas iniciativas em que OWN-PT é empregada, com ênfase no uso de representações vetoriais para o aprendizado de novas relações semânticas.},
+  language = {pt},
+  school = {Fundação Getulio Vargas},
+  author = {Aguiar, Fredson Silva de Souza},
+  month = dec,
+  year = {2021},
+  abbr = {BSc thesis},
+  bibtex_show = true,
+  html = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.LDK.2021.21},
+  website = {https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.LDK.2021.21},
+  html = {https://fredsonerd.github.io/assets/pdf/tcc_2021_Fredson_FGV.pdf},
+  pdf = {https://fredsonerd.github.io/assets/pdf/tcc_2021_Fredson_FGV.pdf}
 }
