@@ -2,17 +2,10 @@
   "basics": {
     "name": "Fredson Silva de Souza Aguiar",
     "label": "MSc Student",
-    "image": "prof_pic.jpg",
     "email": "fredsonaguiar704@gmail.com",
-    "phone": "+55 21 991369523",
-    "url": "https://fredsonerd.github.io",
     "summary": "I seek the deepening of technical and personal skills through the studies and discussion of topics related to mathematics, research and education, by participating and sharing in academic events, groups and studies.",
     "location": {
-      "address": "788 Gomes Freire Ave, Apt 721",
-      "postalCode": "20231-015",
-      "city": "Rio de Janeiro",
-      "countryCode": "BR",
-      "region": "Rio de Janeiro"
+    
     },
     "profiles": [
       
@@ -20,13 +13,13 @@
   },
   "work": [
     {
-      "name": "IMB Research Brazil",
+      "name": "IBM Research Brazil",
       "position": "Internship",
       "url": "https://research.ibm.com/labs/brazil",
       "startDate": "2021-06",
       "endDate": "2021-11",
       "summary": "Natural Language Processing; Repair and Publication of Language Data",
-      "highlights": ["Natural Language Processing", "OpenWordnet-PT"]
+      "highlights": []
     },
     {
       "name": "Bank BOCOM BBM",
@@ -35,7 +28,7 @@
       "startDate": "2021-01",
       "endDate": "2021-02",
       "summary": "Data Science, Credit Analysis and Automation for Financial Data",
-      "highlights": ["Data Science", "Credit Analysis", "Automation", "Financial Data"]
+      "highlights": []
     },
     {
       "name": "PICME/CNPQ",
@@ -44,7 +37,7 @@
       "startDate": "2019-08",
       "endDate": "2021-07",
       "summary": "Natural Language Processing; Semantic Representations and Ontologies",
-      "highlights": ["Natural Language Processing", "Semantic Representations", "Ontologies"]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -62,7 +55,7 @@
       "position": "Coordinator",
       "url": "",
       "startDate": "2023-08",
-      "endDate": "2024-08",
+      "endDate": "current",
       "summary": "Graduate Student Seminars for Internal Production Dissemination",
       "highlights": []
     }
@@ -70,35 +63,29 @@
   "education": [
     {
       "institution": "Fundação Getulio Vargas, Brazil",
-      "location": "Rio de Janeiro, Brazil",
       "url": "https://emap.fgv.br/en/school",
-      "area": "Mathematical Modelling",
-      "studyType": "MSc",
+      "studyType": "MSc, Mathematical Modelling",
       "startDate": "2023-03",
-      "endDate": "2025-03",
-      "score": "GPA: N/A",
-      "courses": ["Optimal Control", "Reinforcement Learning", "Model Predictive Control"]
+      "endDate": "current",
+      "summary": "Carrying out studies on Optimal Control problems associated with Reinforcement Learning methods, including topics of Learning Based Model Predictive Control (MPC)",
+      "courses": []
     },
     {
       "institution": "Fundação Getulio Vargas, Brazil",
-      "location": "Rio de Janeiro, Brazil",
       "url": "https://emap.fgv.br/en/school",
-      "area": "Applied Mathematics",
-      "studyType": "BSc",
+      "studyType": "BSc, Applied Mathematics",
       "startDate": "2018-03",
       "endDate": "2022-03",
-      "score": "GPA: 3.64",
-      "courses": ["Natural Language Processing", "OpenWordnet-PT"]
+      "summary": "Developped research in the areas of Natural Language Processing, Knowledge Representation, Ontologies and Textual Inference",
+      "courses": []
     },
     {
       "institution": "Instituto Federal do Rio Grande do Norte, Brazil",
-      "location": "Rio Grande do Norte, Brazil",
       "url": "https://portal.ifrn.edu.br/",
-      "area": "Information Technology",
-      "studyType": "Technical",
+      "studyType": "Technician, Information Technology",
       "startDate": "2014-03",
       "endDate": "2018-03",
-      "score": "GPA: 3.71",
+      "summary": "Technical formation integrated to highschooling; developped research proposing acessible automation for shrimp production",
       "courses": []
     }
   ],
