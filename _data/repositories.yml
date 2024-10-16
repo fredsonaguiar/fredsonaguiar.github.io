@@ -1,8 +1,8 @@
 github_users:
-  - fredsonerd
+  - fredsonaguiar
 
 github_repos:
-  - fredsonerd/reinforcement_learning_and_optimal_control
-  - fredsonerd/bang_bang_mountain_car
+  - fredsonaguiar/reinforcement_learning_and_optimal_control
+  - fredsonaguiar/bang_bang_mountain_car
   - own-pt/openWordnet-PT
   - own-pt/delphin-rdf
