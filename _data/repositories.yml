@@ -2,6 +2,8 @@ github_users:
   - fredsonaguiar
 
 github_repos:
+  - fredsonaguiar/ioc_mpc_timely_dist_shift
+  - fredsonaguiar/safe-learning-environments
   - fredsonaguiar/reinforcement_learning_and_optimal_control
   - fredsonaguiar/bang_bang_mountain_car
   - own-pt/openWordnet-PT
