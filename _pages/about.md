@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Brazilian student currently undertaking a Research Internship pursuing a M2 (second year French Master) in the program Mathematics of Data from the [Math & Computer Science Graduate School](https://eur.univ-paris13.fr/) at the [University of Sorbonne Paris Nord](https://www.univ-spn.fr/), France, with the desire of further maturing my practical and theoretical perception of learning-based and data-driven methods, holding an excelence scholarship. As part of this formation, I was accepted to a 5-month research internship at the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU-Erlangen), to develop research on Control and Machine Learning under the advisory of Enrique Zuazua, a major reference in the field.
+I’m a Brazilian student currently undertaking a Research Internship pursuing a M2 (second year French Master) in the program Mathematics of Data from the [Math & Computer Science Graduate School](https://eur.univ-paris13.fr/) at the [University of Sorbonne Paris Nord](https://www.univ-spn.fr/), France, with the desire of further maturing my practical and theoretical perception of learning-based and data-driven methods, holding an excelence scholarship. As part of this formation, I was accepted to a 5-month research internship at the [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU-Erlangen)](https://www.fau.de/), to develop research on Control and Machine Learning under the advisory of [Enrique Zuazua](https://dcn.nat.fau.eu/enrique-zuazua/), a major reference in the field.
 
 
 
