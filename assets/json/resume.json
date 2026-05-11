@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fredson Silva de Souza Aguiar",
-    "label": "MSc Student in Mathematical Modelling",
+    "label": "MSc Student in Mathematics of Data",
     "email": "fredsonaguiar704@gmail.com",
     "summary": "I seek the deepening of technical and personal skills through the studies and discussion of topics related to mathematics, research and education, by participating and sharing in academic events, groups and studies.",
     "location": {
@@ -12,6 +12,15 @@
     ]
   },
   "work": [
+    {
+      "name": "FAU-Erlangn",
+      "position": "Internship",
+      "url": "https://dcn.nat.fau.eu/",
+      "startDate": "2026-04",
+      "endDate": "2026-08",
+      "summary": "From Optimal Control to Reinforcement Learning and Joint Methodologies: a discussion on Linear Quadratic Regulators",
+      "highlights": []
+    },
     {
       "name": "IBM Research Brazil",
       "position": "Internship",
@@ -62,11 +71,19 @@
   ],
   "education": [
     {
+      "institution": "Université Sorbonne Paris Nord",
+      "url": "https://www.univ-spn.fr/",
+      "studyType": "M2, Mathematics of Data",
+      "startDate": "2025-09",
+      "endDate": "present",
+      "courses": ["Internship topic: From Optimal Control to Reinforcement Learning and Joint Methodologies"]
+    },
+    {
       "institution": "Fundação Getulio Vargas, Brazil",
       "url": "https://emap.fgv.br/en/school",
       "studyType": "MSc, Mathematical Modelling",
       "startDate": "2023-03",
-      "endDate": "present",
+      "endDate": "2025-08",
       "courses": ["Carrying out studies on Optimal Control Theory and Model Predictive Control (MPC) applied to Epidemiology and Machine Learning"]
     },
     {
