@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Student at <a href='https://emap.fgv.br/en/school'>Fundação Getulio Vargas (FGV/EMAp)</a>
+subtitle: Aspiring to make a difference trough reseach and education
 
 profile:
   align: right
