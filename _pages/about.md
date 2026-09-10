@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Brazilian student currently undertaking a Research Internship pursuing a M2 (second year French Master) in the program Mathematics of Data from the [Math & Computer Science Graduate School](https://eur.univ-paris13.fr/) at the [University of Sorbonne Paris Nord](https://www.univ-spn.fr/), France, with the desire of further maturing my practical and theoretical perception of learning-based and data-driven methods, holding an excelence scholarship.
+I am Brazilian student currently pursuing a M2 (second year French Master) in the program Mathematics of Data from the [Math & Computer Science Graduate School](https://eur.univ-paris13.fr/) at the [University of Sorbonne Paris Nord](https://www.univ-spn.fr/), France, with the desire of further maturing my practical and theoretical perception of learning-based and data-driven methods, holding an excelence scholarship.
 
 As part of my current formation, I currently work as a research intern under the guidance of Jerome Lacaille (Safran), developing research on automated retrieval and generation based on Large Language Models on the applicability of Machine Learning and AI for predictive maintenance in aircraft systems. I also undertook a 2-month research visit at the [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU-Erlangen)](https://www.fau.de/), to develop research on Control and Machine Learning under the advisory of [Enrique Zuazua](https://dcn.nat.fau.eu/enrique-zuazua/), a major reference in the field.
 
